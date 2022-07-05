@@ -5,7 +5,6 @@
     <modelVersion>4.0.0</modelVersion>
     <modules>
         <module>order-service</module>
-        <module>gateway</module>
     </modules>
     <!-- 使用继承SpringBoot2.3.12.RELEASE -->
     <parent>
